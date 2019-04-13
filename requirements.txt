@@ -1,0 +1,9 @@
+# Needed packages/versions
+matplotlib
+gspread
+ipdb
+numpy
+pandas
+requests
+google.cloud
+oauth2client
