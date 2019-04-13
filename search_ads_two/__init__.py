@@ -12,7 +12,7 @@ import numpy as np
 import pandas as pd
 import requests
 from dateutil import relativedelta
-from google.cloud import storage
+# from google.cloud import storage
 from oauth2client.service_account import ServiceAccountCredentials
 from pandas.io.json import json_normalize
 

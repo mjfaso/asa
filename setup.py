@@ -22,7 +22,7 @@ setup(
 	'numpy',
 	'pandas',
 	'requests',
-	'google.cloud',
+	#'google.cloud',
 	'oauth2client',
 	],
     zip_safe=False)
